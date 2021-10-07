@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, Eu sou o Caio :👋
 
-<!--
-**OzzyCV/OzzyCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem Vindo 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/OzzyCV)](https://github.com/OzzyCV)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vaccari-839643215/)](hhttps://www.linkedin.com/in/caio-vaccari-839643215/)
 
-Here are some ideas to get you started:
+### Sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um estudade de Sistemas de Informação, buscando por oportunidade para se tornar desenvolvedor .NET
+- 🔭 Formado em Técnico em Analise e Desenvolvimento de Sistemas.
+
+### Onde me encontrar 
+
+https://www.linkedin.com/in/caio-vaccari-839643215/
