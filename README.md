@@ -6,7 +6,7 @@
 
 ### Sobre mim 
 
-Sou um estudade de Sistemas de Informação, buscando por oportunidade para se tornar desenvolvedor .NET
+Sou um estudade de Sistemas de Informação.
 - 🔭 Formado em Técnico em Analise e Desenvolvimento de Sistemas.
 
 ### Onde me encontrar 
